@@ -1,18 +1,18 @@
 ### Hi there 👋 , I am Judith Moya!
 ![Twitter Follow](https://img.shields.io/twitter/follow/jayemmw?label=Follow%20me%20on%20Twitter&style=social)
-![linkedIn]<a href="https://www.linkedin.com/in/judith-moya/"><i class="fab fa-linkedin"></i></a>
+<!-- ![linkedIn]<a href="https://www.linkedin.com/in/judith-moya/"><i class="fab fa-linkedin"></i></a> -->
 
 <!--
 **JuddieMoya/JuddieMoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I'm a Full Stack Web developer that loves coding, doing research,collaborating and creating cool applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently  developing my codig skills in Python,its framework Django, ,SQL, javascript, React learning to write meaningful code. 
+- 👯 I’m looking to collaborate on open source projects especially in Django, Python, HTML5, CSS, React, Bootstrap and Javascript
+- 🤔 I’m looking for help with Java, React/Redux, Ruby on Rails
+- 💬 Ask me about Back end Development, Django and Tech support
+- 📫 How to reach me: juddiemoya@gmail.com| https://www.linkedin.com/in/judith-moya/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am a Music addict!! and love learning about the different cultures out there!!! 
 -->
