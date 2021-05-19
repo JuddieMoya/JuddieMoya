@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/jayemmw?label=Follow%20me%20on%20Twitter&style=social)
 <!-- ![linkedIn]<a href="https://www.linkedin.com/in/judith-moya/"><i class="fab fa-linkedin"></i></a> -->
 
-<!--
+
 **JuddieMoya/JuddieMoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ I'm a Full Stack Web developer that loves coding, doing research,collaborating a
 - 📫 How to reach me: juddiemoya@gmail.com| https://www.linkedin.com/in/judith-moya/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Music addict!! and love learning about the different cultures out there!!! 
--->
+
