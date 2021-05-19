@@ -7,7 +7,7 @@ I'm a Full Stack Web developer that loves coding, doing research,collaborating a
 - 🌱 I’m currently  developing my codig skills in Python,its framework Django, ,SQL, javascript, React learning to write meaningful code. 
 - 👯 I’m looking to collaborate on open source projects especially in Django, Python, HTML5, CSS, React, Bootstrap and Javascript
 - 🤔 I’m looking for help with Java, React/Redux, Ruby on Rails
-- 💬 Ask me about Back end Development, Django and Tech support
+- 💬 Ask me about Back-End Development, Django and Tech support
 - 📫 How to reach me: juddiemoya@gmail.com| https://www.linkedin.com/in/judith-moya/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Music addict!! and love learning about the different cultures out there!!! 
