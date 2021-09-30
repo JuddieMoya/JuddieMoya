@@ -9,6 +9,6 @@ I'm a Full Stack Web developer that loves coding, doing research,collaborating a
 - 🤔 I’m looking for help with Java, React/Redux, Ruby on Rails, SQL
 - 💬 Ask me about Back-End Development, Django and Tech support
 - 📫 How to reach me: juddiemoya@gmail.com| https://www.linkedin.com/in/judith-moya/
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a Music addict!! and love learning about the different cultures out there!!! 
 
